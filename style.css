@@ -1,0 +1,150 @@
+.navbar1{
+    display: flex;
+    padding: 20px ;
+}
+.navbar1 ul li a{
+    color: gray;
+    
+}
+.logo{
+  
+  width: 200px;
+    
+}
+button{
+    border-radius: 40px;
+    padding: 4px 30px;
+    border: 2px solid skyblue;
+    cursor: pointer;
+    
+    
+}
+ button:hover{
+    background-color: aqua;
+}
+.background{
+    background-image: url(../Html/img/back2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.h6{
+    color: orange   ;
+}
+.fa-facebook {
+    color: blue;
+    border-radius: 50px ;
+    border: 1px solid orange;
+    padding: 5px;
+}
+.fa-instagram{
+    color: purple;
+    border-radius: 50px ;
+    border: 1px solid orange;
+    padding: 5px;
+}
+.fa-twitter{
+    color: skyblue;
+    border-radius: 50px ;
+    border: 1px solid orange;
+    padding: 5px;
+}
+.icon{
+    font-size: 30px;
+    margin-top: 50px;
+  
+}
+
+.img2{
+    width: 500px;
+    
+    border: 10px double aquamarine;
+   
+}
+.img1{
+    width: 400px;
+    margin-left: 200px;
+    
+   
+}
+.icon span{
+    margin: 10px;
+    font-size: 70%;
+   font-family: sans-serif;
+}
+.text1 h1{
+   color: black;
+   font-family: 'Oswald', sans-serif;
+   border: 5px groove gold ;
+   width: 40%;
+   margin: auto;
+
+}
+.text1{
+    margin-top: 80px;
+    text-align: center;
+    margin-right: 200px;
+    width: 90%;
+}
+.text1 p{
+    margin-top: 20px;
+    font-size: medium;
+    font-family: 'Arima', cursive;
+    font-size: 20px; 
+    
+}
+.logo1{
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 55%;
+}
+.background1{
+    background-image: url(../Html/img/4853433.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.col h2{
+    text-align: center;
+}
+.col img{
+    
+    margin-left: 220px;
+
+}
+.address h5{
+    align-content: center;
+    
+    width: 80%;
+    margin: auto;
+    line-height: 1.6;
+}
+.last {
+ height: 500px;
+ border: 5px groove #cff4fc;
+ cursor: pointer;
+ padding: px;
+ background-color: #ebe3e3;
+}
+.last:hover{
+ background-color: skyblue;
+}
+.logo1 img{
+    transform: scale(1);
+    transition: 0.1s ease-in;
+}
+.logo1 img:hover{
+    transform: scale(1.2);
+}
+.back{
+    background-color: #f1aeb5;
+}
+.nav-item h5{
+    color: #cff4fc;
+    cursor: pointer;
+}
+.nav-item h5:hover{
+    color: skyblue;
+}
